@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_I don't have **skills**_ Sometimes I'm writing  stupid sh*t but I know programming in C# * :+1:
